@@ -1,0 +1,24 @@
+Plugin 'scrooloose/nerdtree' 
+Plugin 'Xuyuanp/nerdtree-git-plugin'
+" Plugin 'jistr/vim-nerdtree-tabs'
+
+Plugin 'bling/vim-airline'
+" Plugin 'weynhamz/vim-plugin-minibufexpl'
+
+Plugin 'flazz/vim-colorschemes'
+Plugin 'scrooloose/syntastic'
+
+Plugin 'sjl/gundo.vim'
+Plugin 'airblade/vim-gitgutter'
+Plugin 'tpope/vim-fugitive'
+
+Plugin 'majutsushi/tagbar'
+
+Plugin 'rosenfeld/conque-term'
+Plugin 'StanAngeloff/php.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
+Plugin 'tacahiroy/ctrlp-funky'
+Plugin 'Valloric/YouCompleteMe'
+
+Plugin 'Chiel92/vim-autoformat'
+Plugin '2072/PHP-Indenting-for-VIm'
